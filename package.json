@@ -1,0 +1,17 @@
+{
+  "name": "myjobTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testrun": "cypress run",
+    "testopen": "cypress open"
+  },
+  "keywords": [],
+  "author": "Yvonne Kwarteng",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.2.1"
+  }
+}
